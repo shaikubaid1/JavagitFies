@@ -1,4 +1,6 @@
-hello shaik ubaid 
-i am back
-hhj 
-hello vivers
+//hello shaik ubaid  
+class git{
+public static void main(String ar[]){
+System.out.println("Welcome to git");
+}
+}
